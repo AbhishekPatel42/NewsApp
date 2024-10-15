@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587786418153",
+    "project_id": "newsapp-8c0f7",
+    "storage_bucket": "newsapp-8c0f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587786418153:android:c3a701d6c2895315367d78",
+        "android_client_info": {
+          "package_name": "com.example.tajakhabar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNm-nnyG5QsEKxGJmS0aFuGI-N_YGth9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
